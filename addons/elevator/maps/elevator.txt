@@ -1,0 +1,12 @@
+"Maps"
+{
+	"Garry's Mod"
+	{
+		"elevator"
+		{
+			"Credits"	"Pixeltail Games"
+			"Material"	"maps/elevator"	
+		}
+	}
+	
+}

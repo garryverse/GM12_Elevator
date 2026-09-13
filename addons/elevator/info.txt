@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"Elevator: Source"
+	"version"			"1"
+	"up_date"			"January 2012"
+	"author_name"	"pixelTail Games"
+	"author_email"	""
+	"info"				"Elevator Simulator"
+}

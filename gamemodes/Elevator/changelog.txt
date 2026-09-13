@@ -1,0 +1,21 @@
+1/19/2012 - rev. 422
+  - Fixed reported billiard errors
+  - Fixed reported SDK errors
+
+1/18/2012 - rev. 418
+	- Reduced waiting songs to 30 seconds only to avoid copyright issues.
+
+1/14/2012 - rev. 411
+	- Fixed bug with billiards that lead to broken GUI.
+	- NPCs now remove after 5 minutes of being on the end floor.
+	- Added support for custom floors.
+	- Added GAMEMODE:Payout( ply ) which is called when a player wins slots.  Can be used to tie slot wins to actual money in a modification.
+	- Added GAMEMODE:SkipElevator( ply ) which allows a player to completely skip the elevator and go to the end floor.  This can only be called by custom code.
+	- elev_reset now kicks you out of billards, incase you get stuck somehow.
+	- Added delay elev_reset to prevent spammers.
+
+1/13/2012 - rev. 409
+	- Fixed slot machine causing players to get stuck in the ceiling.
+	- Added elev_reset, which allows players to reset their position when they're on the end floor (in case of other issues).
+	- Fixed bonematrix Lua error.
+	- Added precaching of particle systems.

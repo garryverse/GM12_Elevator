@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"Elevator: Source"
+	"version"	"1.0"
+
+	"author_name"	"pixelTail Games"
+	"author_email"	""
+	"author_url"	"http://www.pixeltailgames.com/elevator/"
+	
+	"info"		"Experience the joys of riding an elevator!"
+	"hide"		"0"
+}
